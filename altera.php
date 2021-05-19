@@ -1,5 +1,4 @@
 <?php
-	/*dhsjdh*/
 	include_once('conexao.php');
 
 	if(isset($_POST['submit'])){
